@@ -1,0 +1,5 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+scopeName: kdu.pug.directives
+injectionSelector: "L:meta.tag.other -text.html.kdu-html"
+patterns:
+  - include: 'source.kdu#kdu-directives'

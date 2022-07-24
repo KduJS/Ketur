@@ -1,0 +1,9 @@
+{
+  "scopeName": "kdu.pug.interpolations",
+  "injectionSelector": "L:text.pug",
+  "patterns": [
+    {
+      "include": "source.kdu#kdu-interpolations"
+    }
+  ]
+}
